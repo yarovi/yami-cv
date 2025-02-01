@@ -1,9 +1,7 @@
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-formal.png" />
 
-<span style="float:right;padding:6px"> 
   royado@hotmail.com <br> mobile: +34 665091568  +51 912787532 <br> Nacionalidad: Perú <br> Dirección: Fernando Alonso 21, 33009 - Oviedo (Actualmente) <br> Dirección Perú: Francisco Bolognesi 504 , Mollendo - Arequipa <br>
 
-</span>
 
 # Información
 
